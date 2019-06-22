@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "expo": "^31.0.2",
-    "react": "^16.7.0-alpha.2",
+    "react": "^16.8.6",
     "react-native": "expo/react-native#sdk-31-with-hooks-experimental"
   },
   "devDependencies": {
