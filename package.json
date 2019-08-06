@@ -7,7 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^34.0.3",
+    "expo": "^34.0.4",
     "react": "^16.8.6",
     "react-native": "expo/react-native#sdk-31-with-hooks-experimental"
   },
