@@ -16,7 +16,7 @@
     "babel-eslint": "^10.0.3",
     "babel-preset-expo": "^8.1.0",
     "eslint": "^6.8.0",
-    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard": "^14.1.1",
     "eslint-config-standard-react": "^9.2.0",
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-node": "^11.0.0",
